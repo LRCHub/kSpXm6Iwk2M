@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "着火、カウントダウン",
+  "base_artist": "n-buna",
+  "createdAt": "2026-01-13T12:57:47.680706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "着火、カウントダウン",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/01_着火、カウントダウン_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "着火、カウントダウン",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/02_着火、カウントダウン_ナブナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "着火、カウントダウン",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_着火、カウントダウン_n-buna.txt"
+    }
+  ]
+}
